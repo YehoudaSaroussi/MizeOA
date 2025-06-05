@@ -1,0 +1,14 @@
+C:\Users\yeoud\Desktop\MizeOA\src\bin\Debug\net7.0\MizeOA.exe
+C:\Users\yeoud\Desktop\MizeOA\src\bin\Debug\net7.0\MizeOA.deps.json
+C:\Users\yeoud\Desktop\MizeOA\src\bin\Debug\net7.0\MizeOA.runtimeconfig.json
+C:\Users\yeoud\Desktop\MizeOA\src\bin\Debug\net7.0\MizeOA.dll
+C:\Users\yeoud\Desktop\MizeOA\src\bin\Debug\net7.0\MizeOA.pdb
+C:\Users\yeoud\Desktop\MizeOA\src\obj\Debug\net7.0\MizeOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeoud\Desktop\MizeOA\src\obj\Debug\net7.0\MizeOA.AssemblyInfoInputs.cache
+C:\Users\yeoud\Desktop\MizeOA\src\obj\Debug\net7.0\MizeOA.AssemblyInfo.cs
+C:\Users\yeoud\Desktop\MizeOA\src\obj\Debug\net7.0\MizeOA.csproj.CoreCompileInputs.cache
+C:\Users\yeoud\Desktop\MizeOA\src\obj\Debug\net7.0\MizeOA.dll
+C:\Users\yeoud\Desktop\MizeOA\src\obj\Debug\net7.0\refint\MizeOA.dll
+C:\Users\yeoud\Desktop\MizeOA\src\obj\Debug\net7.0\MizeOA.pdb
+C:\Users\yeoud\Desktop\MizeOA\src\obj\Debug\net7.0\MizeOA.genruntimeconfig.cache
+C:\Users\yeoud\Desktop\MizeOA\src\obj\Debug\net7.0\ref\MizeOA.dll
